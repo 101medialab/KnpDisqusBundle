@@ -21,10 +21,6 @@
         "symfony/framework-bundle": ">=2.0",
         "kriswallsmith/buzz":       "0.7"
     },
-    
-    "replace": {
-        "knplabs/knp-disqus-bundle": "dev-master"  
-    },
 
     "require-dev": {
         "knplabs/knp-zend-cache-bundle": "*"
